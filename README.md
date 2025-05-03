@@ -15,7 +15,7 @@
 
 1. Clona il repository:
 
-git clone https://github.com/MarioGiagnotti/fantacalcio.git
+git clone https://github.com/MarioGiagnotti/IoT-HTTP-Real.git
 
 oppure fare il Download del file .zip
 
